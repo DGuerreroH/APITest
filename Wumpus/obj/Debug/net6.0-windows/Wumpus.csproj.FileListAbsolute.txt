@@ -1,0 +1,39 @@
+C:\Users\diego\OneDrive\Documentos\C# proyects\Wumpus\Wumpus\bin\Debug\net6.0-windows\Wumpus.exe
+C:\Users\diego\OneDrive\Documentos\C# proyects\Wumpus\Wumpus\bin\Debug\net6.0-windows\Wumpus.deps.json
+C:\Users\diego\OneDrive\Documentos\C# proyects\Wumpus\Wumpus\bin\Debug\net6.0-windows\Wumpus.runtimeconfig.json
+C:\Users\diego\OneDrive\Documentos\C# proyects\Wumpus\Wumpus\bin\Debug\net6.0-windows\Wumpus.dll
+C:\Users\diego\OneDrive\Documentos\C# proyects\Wumpus\Wumpus\bin\Debug\net6.0-windows\Wumpus.pdb
+C:\Users\diego\OneDrive\Documentos\C# proyects\Wumpus\Wumpus\obj\Debug\net6.0-windows\Wumpus.csproj.AssemblyReference.cache
+C:\Users\diego\OneDrive\Documentos\C# proyects\Wumpus\Wumpus\obj\Debug\net6.0-windows\Wumpus.Form1.resources
+C:\Users\diego\OneDrive\Documentos\C# proyects\Wumpus\Wumpus\obj\Debug\net6.0-windows\Wumpus.csproj.GenerateResource.cache
+C:\Users\diego\OneDrive\Documentos\C# proyects\Wumpus\Wumpus\obj\Debug\net6.0-windows\Wumpus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\OneDrive\Documentos\C# proyects\Wumpus\Wumpus\obj\Debug\net6.0-windows\Wumpus.AssemblyInfoInputs.cache
+C:\Users\diego\OneDrive\Documentos\C# proyects\Wumpus\Wumpus\obj\Debug\net6.0-windows\Wumpus.AssemblyInfo.cs
+C:\Users\diego\OneDrive\Documentos\C# proyects\Wumpus\Wumpus\obj\Debug\net6.0-windows\Wumpus.csproj.CoreCompileInputs.cache
+C:\Users\diego\OneDrive\Documentos\C# proyects\Wumpus\Wumpus\obj\Debug\net6.0-windows\Wumpus.dll
+C:\Users\diego\OneDrive\Documentos\C# proyects\Wumpus\Wumpus\obj\Debug\net6.0-windows\refint\Wumpus.dll
+C:\Users\diego\OneDrive\Documentos\C# proyects\Wumpus\Wumpus\obj\Debug\net6.0-windows\Wumpus.pdb
+C:\Users\diego\OneDrive\Documentos\C# proyects\Wumpus\Wumpus\obj\Debug\net6.0-windows\Wumpus.genruntimeconfig.cache
+C:\Users\diego\OneDrive\Documentos\C# proyects\Wumpus\Wumpus\obj\Debug\net6.0-windows\ref\Wumpus.dll
+C:\Users\diego\OneDrive\Documentos\C# proyects\Wumpus\Wumpus\obj\Debug\net6.0-windows\Interop.VBIDE.dll
+C:\Users\diego\OneDrive\Documentos\C# proyects\Wumpus\Wumpus\obj\Debug\net6.0-windows\Wumpus.csproj.ResolveComReference.cache
+C:\Users\Diego\Downloads\Wumpus\Wumpus\bin\Debug\net6.0-windows\Wumpus.exe
+C:\Users\Diego\Downloads\Wumpus\Wumpus\bin\Debug\net6.0-windows\Wumpus.deps.json
+C:\Users\Diego\Downloads\Wumpus\Wumpus\bin\Debug\net6.0-windows\Wumpus.runtimeconfig.json
+C:\Users\Diego\Downloads\Wumpus\Wumpus\bin\Debug\net6.0-windows\Wumpus.dll
+C:\Users\Diego\Downloads\Wumpus\Wumpus\bin\Debug\net6.0-windows\Wumpus.pdb
+C:\Users\Diego\Downloads\Wumpus\Wumpus\obj\Debug\net6.0-windows\Wumpus.csproj.AssemblyReference.cache
+C:\Users\Diego\Downloads\Wumpus\Wumpus\obj\Debug\net6.0-windows\Interop.VBIDE.dll
+C:\Users\Diego\Downloads\Wumpus\Wumpus\obj\Debug\net6.0-windows\Wumpus.csproj.ResolveComReference.cache
+C:\Users\Diego\Downloads\Wumpus\Wumpus\obj\Debug\net6.0-windows\Wumpus.Form1.resources
+C:\Users\Diego\Downloads\Wumpus\Wumpus\obj\Debug\net6.0-windows\Wumpus.csproj.GenerateResource.cache
+C:\Users\Diego\Downloads\Wumpus\Wumpus\obj\Debug\net6.0-windows\Wumpus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego\Downloads\Wumpus\Wumpus\obj\Debug\net6.0-windows\Wumpus.AssemblyInfoInputs.cache
+C:\Users\Diego\Downloads\Wumpus\Wumpus\obj\Debug\net6.0-windows\Wumpus.AssemblyInfo.cs
+C:\Users\Diego\Downloads\Wumpus\Wumpus\obj\Debug\net6.0-windows\Wumpus.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Downloads\Wumpus\Wumpus\obj\Debug\net6.0-windows\Wumpus.dll
+C:\Users\Diego\Downloads\Wumpus\Wumpus\obj\Debug\net6.0-windows\refint\Wumpus.dll
+C:\Users\Diego\Downloads\Wumpus\Wumpus\obj\Debug\net6.0-windows\Wumpus.pdb
+C:\Users\Diego\Downloads\Wumpus\Wumpus\obj\Debug\net6.0-windows\Wumpus.genruntimeconfig.cache
+C:\Users\Diego\Downloads\Wumpus\Wumpus\obj\Debug\net6.0-windows\ref\Wumpus.dll
+C:\Users\diego\OneDrive\Documentos\C# proyects\Wumpus\Wumpus\obj\Debug\net6.0-windows\Wumpus.Properties.Resources.resources
